@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "space2stats-catalog",
   "stac_version": "1.0.0",
-  "description": "API to query, access and aggregate geospatial variables from the Space2Stats database. Demographic, socio-economic and environmental variables are avaialble at the global level at the hexagonal grid (h3) level 6. The purpose of this API is to facilitate the generation of sub-national geospatial aggregates for any administrative boundary set.",
+  "description": "API to query, access and aggregate geospatial variables from the Space2Stats database. Demographic, socio-economic and environmental variables are available at the global level through a global hexagonal grid (h3 level 6). The purpose of this API is to facilitate the generation of sub-national geospatial aggregates for any administrative boundary set.",
   "links": [
     {
       "rel": "root",
@@ -15,6 +15,16 @@
       "href": "./space2stats/space2stats.json",
       "type": "application/json"
     }
+  ],
+  "License": "Creative Commons Attribution 4.0",
+  "Responsible Party": "Ben Stewart (TTL)\nWorld Bank, Development Data Group (DECDG)",
+  "Purpose": "The purpose of this API is to facilitate the generation of sub-national geospatial aggregates for any administrative boundary set.",
+  "Keywords": [
+    "space2stats",
+    "sub-national",
+    "h3",
+    "hexagons",
+    "global"
   ],
   "title": "Space2Stats Database"
 }
