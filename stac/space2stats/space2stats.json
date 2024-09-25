@@ -235,7 +235,7 @@
         "geometry": "geometry"
       }
     },
-    "datetime": "2024-09-25T11:07:59.885731Z"
+    "datetime": "2024-09-25T11:23:29.592052Z"
   },
   "geometry": {
     "type": "Polygon",
@@ -269,18 +269,18 @@
       "rel": "root",
       "href": "../catalog.json",
       "type": "application/json",
-      "title": "Space2Stats"
+      "title": "Space2Stats Database"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",
-      "title": "Space2Stats"
+      "title": "Space2Stats Database"
     }
   ],
   "assets": {
     "sources-metadata": {
-      "href": "sources.json",
+      "href": "./stac/sources.json",
       "type": "application/json",
       "title": "Sources Metadata",
       "roles": [
