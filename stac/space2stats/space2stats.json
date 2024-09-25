@@ -235,7 +235,7 @@
         "geometry": "geometry"
       }
     },
-    "datetime": "2024-09-25T12:58:45.728024Z"
+    "datetime": "2024-09-25T13:04:29.953034Z"
   },
   "geometry": {
     "type": "Polygon",
@@ -290,7 +290,7 @@
     "api-docs": {
       "href": "https://space2stats.ds.io/docs",
       "type": "text/html",
-      "title": "Source Data",
+      "title": "API Documentation",
       "roles": [
         "metadata"
       ]
