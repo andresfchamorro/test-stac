@@ -235,7 +235,7 @@
         "geometry": "geometry"
       }
     },
-    "datetime": "2024-09-25T15:37:11.148821Z"
+    "datetime": "2024-09-27T13:39:21.925599Z"
   },
   "geometry": {
     "type": "Polygon",
@@ -280,7 +280,7 @@
   ],
   "assets": {
     "sources-metadata": {
-      "href": "./stac/space2stats/sources.json",
+      "href": "./sources.json",
       "type": "application/json",
       "title": "Sources Metadata",
       "roles": [
